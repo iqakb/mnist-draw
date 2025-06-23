@@ -1,6 +1,8 @@
 # mnist-draw
 Interactive demo program of a neural network classifying a handwritten digits.
 
+![](preview.gif)
+
 ## Setup
 ### Prerequisite
 * Python
